@@ -1,1 +1,1 @@
-# .yaml
+sudo chown -R abc /html
